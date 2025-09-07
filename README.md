@@ -1,2 +1,3 @@
 ✨ About the Project
+
 ResumeXpert is a modern, AI-powered web application designed to simplify the resume-building process. Built to be intuitive and highly effective, our platform helps you create professional, ATS-friendly resumes that stand out to recruiters and hiring managers. With expertly designed templates and a seamless user experience, you can go from blank page to a polished resume in minutes.
