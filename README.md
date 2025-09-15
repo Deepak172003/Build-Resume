@@ -23,4 +23,4 @@ It combines a sleek frontend, a robust backend, and AI integration (powered by O
 
 ---
 
-## 📂 Project Structure
+
